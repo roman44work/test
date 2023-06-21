@@ -1,0 +1,14 @@
+
+Admin
+Admin: User
+Password: property
+________________________
+
+DB
+Name: property
+User: root
+Password:
+________________________
+
+Shortcode: test-property
+Widget: Test Widget Filter
